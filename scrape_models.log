@@ -1,6 +1,0 @@
-2026-03-19 10:08:05,604 - INFO - 正在抓取 https://qiachip.github.io/qiachip/
-2026-03-19 10:08:06,387 - INFO - 找到 46 个可能的型号
-2026-03-19 10:08:06,388 - INFO - 型号列表已保存到 data/raw/model_list.json
-2026-03-19 10:18:51,273 - INFO - 正在抓取 https://qiachip.github.io/qiachip/
-2026-03-19 10:18:52,024 - INFO - 找到 44 个有效的产品型号
-2026-03-19 10:18:52,025 - INFO - 型号列表已保存到 data/raw/model_list.json
