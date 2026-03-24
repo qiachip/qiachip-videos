@@ -1,0 +1,1 @@
+"""Scraper module for YouTube channel video metadata extraction."""

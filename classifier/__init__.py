@@ -1,0 +1,1 @@
+"""Classifier module for product model classification."""

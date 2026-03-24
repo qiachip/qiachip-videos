@@ -1,0 +1,560 @@
+{
+  "FLC05-E110V": {
+    "title": "QIACHIP FLC05-E110V Instruction Manual AC 90V-175V 433MHz RF Ceiling Fan Light Remote Control Switch",
+    "keywords": [
+      "AC90V-175V",
+      "433MHz",
+      "RF",
+      "Ceiling",
+      "Fan",
+      "Light",
+      "Switch"
+    ]
+  },
+  "FLC05-E220V": {
+    "title": "QIACHIP FLC05-E220V Instruction Manual AC 175V-265V 433MHz RF Ceiling Fan Light Remote Control Switch",
+    "keywords": [
+      "AC175V-265V",
+      "433MHz",
+      "RF",
+      "Ceiling",
+      "Fan",
+      "Light",
+      "Switch"
+    ]
+  },
+  "KR0548-1CH": {
+    "title": "QIACHIP KR0548-1CH Instruction Manual DC 7-48V WIFI Ewelink Smart Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "DC7-48V",
+      "WIFI",
+      "Ewelink",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR0548-2CH": {
+    "title": "QIACHIP KR0548-2CH Instruction Manual DC 7-48V WIFI Ewelink Smart Remote Control Switch 2-CH Relay Receiver",
+    "keywords": [
+      "DC7-48V",
+      "WIFI",
+      "Ewelink",
+      "Switch",
+      "2-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR0548-4CH": {
+    "title": "QIACHIP KR0548-4CH Instruction Manual DC 7-48V WIFI Ewelink Smart Remote Control Switch 4-CH Relay Receiver",
+    "keywords": [
+      "DC7-48V",
+      "WIFI",
+      "Ewelink",
+      "Switch",
+      "4-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR1201A": {
+    "title": "QIACHIP KR1201A Instruction Manual DC 12V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "DC12V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR1201C": {
+    "title": "QIACHIP KR1201C Instruction Manual DC 12V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "DC12V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR1202-30R": {
+    "title": "QIACHIP KR1202-30R Instruction Manual DC 5V-30V 433MHz RF Wireless Motor Control Module Relay Receiver",
+    "keywords": [
+      "DC5V-30V",
+      "433MHz",
+      "RF",
+      "Motor",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR1202-V05": {
+    "title": "QIACHIP KR1202-V05 Instruction Manual DC 5V-60V 433MHz RF Wireless Motor Control Module Relay Receiver",
+    "keywords": [
+      "DC5V-60V",
+      "433MHz",
+      "RF",
+      "Motor",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR1204": {
+    "title": "QIACHIP KR1204 Instruction Manual DC 12V 433MHz RF Remote Control Switch 4-CH Relay Receiver",
+    "keywords": [
+      "DC12V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "4-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR1204B": {
+    "title": "QIACHIP KR1204B Instruction Manual DC 5V-80V 433MHz RF Remote Control Switch 4-CH Relay Receiver",
+    "keywords": [
+      "DC5V-80V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "4-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201-4": {
+    "title": "QIACHIP KR2201-4 Instruction Manual AC 110V 220V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201-COM": {
+    "title": "QIACHIP KR2201-COM Instruction Manual AC 110V 220V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201B-4": {
+    "title": "QIACHIP KR2201B-4 Instruction Manual AC 110V 220V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201BL-4": {
+    "title": "QIACHIP KR2201BL-4 Instruction Manual AC 110V 220V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201BY": {
+    "title": "QIACHIP KR2201BY Instruction Manual AC 110V 220V WIFI Ewelink Smart Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "WIFI",
+      "Ewelink",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201DA-4": {
+    "title": "QIACHIP KR2201DA-4 Instruction Manual AC 110V 220V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201F-4": {
+    "title": "QIACHIP KR2201F-4 Instruction Manual AC 110V 220V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201G-4": {
+    "title": "QIACHIP KR2201G-4 Instruction Manual AC 110V 220V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201GS-4": {
+    "title": "QIACHIP KR2201GS-4 Instruction Manual AC 110V 220V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201W-4": {
+    "title": "QIACHIP KR2201W-4 Instruction Manual AC 110V 220V RF+WIFI Tuya Smart Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "RF+WIFI",
+      "Tuya",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2201WB": {
+    "title": "QIACHIP KR2201WB Instruction Manual AC 110V 220V WIFI Tuya Smart Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "WIFI",
+      "Tuya",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2202": {
+    "title": "QIACHIP KR2202 Instruction Manual AC 110V 220V 433MHz RF Remote Control Switch 2-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "2-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2204": {
+    "title": "QIACHIP KR2204 Instruction Manual AC 90V-250V 433MHz RF Remote Control Switch 4-CH Relay Receiver",
+    "keywords": [
+      "AC90V-250V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "4-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2301-4": {
+    "title": "QIACHIP KR2301-4 Instruction Manual AC 110V 220V WIFI Ewelink Smart Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "WIFI",
+      "Ewelink",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2301MT": {
+    "title": "QIACHIP KR2301MT Instruction Manual AC 110V 220V Matter WIFI Ewelink Smart Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "Matter",
+      "WIFI",
+      "Ewelink",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2303": {
+    "title": "QIACHIP KR2303 Instruction Manual AC 110V 220V ZigBee Ewelink Smart Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "ZigBee",
+      "Ewelink",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2305": {
+    "title": "QIACHIP KR2305 Instruction Manual AC 110V 220V WIFI Tuya Smart Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "WIFI",
+      "Tuya",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2306EW": {
+    "title": "QIACHIP KR2306EW Instruction Manual AC 110V 220V 2.4G Ewelink Smart Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "AC110V",
+      "2.4G",
+      "Ewelink",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2401F": {
+    "title": "QIACHIP KR2401F Instruction Manual DC 5V-60V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "DC5V-60V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2401FB": {
+    "title": "QIACHIP KR2401FB Instruction Manual DC 5V-60V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "DC5V-60V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR2402A": {
+    "title": "QIACHIP KR2402A Instruction Manual DC 5V-60V 433MHz RF Remote Control Switch 2-CH Relay Receiver",
+    "keywords": [
+      "DC5V-60V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "2-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "KR3001A": {
+    "title": "QIACHIP KR3001A Instruction Manual DC 5V-60V 433MHz RF Remote Control Switch 1-CH Relay Receiver",
+    "keywords": [
+      "DC5V-60V",
+      "433MHz",
+      "RF",
+      "Switch",
+      "1-CH",
+      "Relay",
+      "Receiver"
+    ]
+  },
+  "MTD12A-4": {
+    "title": "QIACHIP MTD12A-4 Instruction Manual DC 3V-16V 433MHz RF Wireless Micro Motor Receiver Module",
+    "keywords": [
+      "DC3V-16V",
+      "433MHz",
+      "RF",
+      "Micro",
+      "Motor",
+      "Receiver"
+    ]
+  },
+  "QA-R-011": {
+    "title": "QIACHIP QA-R-011 Instruction Manual DC 3.6V-24V 433MHz RF Lighting Control Module Receiver",
+    "keywords": [
+      "DC3.6V-24V",
+      "433MHz",
+      "RF",
+      "Lighting",
+      "Receiver"
+    ]
+  },
+  "QA-R-012": {
+    "title": "QIACHIP QA-R-012 Instruction Manual DC 3.6V-24V 433MHz RF Lighting Control Module Receiver",
+    "keywords": [
+      "DC3.6V-24V",
+      "433MHz",
+      "RF",
+      "Lighting",
+      "Receiver"
+    ]
+  },
+  "QA-R-012V3": {
+    "title": "QIACHIP QA-R-012V3 Instruction Manual DC 3.6V-24V 433MHz RF Lighting Control Module Receiver",
+    "keywords": [
+      "DC3.6V-24V",
+      "433MHz",
+      "RF",
+      "Lighting",
+      "Receiver"
+    ]
+  },
+  "RX18210A-4": {
+    "title": "QIACHIP RX18210A-4 Instruction Manual DC 2V-5V 433MHz RF Superheterodyne Wireless Receiver Module",
+    "keywords": [
+      "DC2V-5V",
+      "433MHz",
+      "RF",
+      "Superheterodyne",
+      "Receiver"
+    ]
+  },
+  "RX18211A-4": {
+    "title": "QIACHIP RX18211A-4 Instruction Manual DC 2V-5V 433MHz RF Superheterodyne Wireless Receiver Module",
+    "keywords": [
+      "DC2V-5V",
+      "433MHz",
+      "RF",
+      "Superheterodyne",
+      "Receiver"
+    ]
+  },
+  "RX217E-V01": {
+    "title": "QIACHIP RX217E-V01 Instruction Manual DC 2V-5V 433MHz RF Superheterodyne Wireless Receiver Module",
+    "keywords": [
+      "DC2V-5V",
+      "433MHz",
+      "RF",
+      "Superheterodyne",
+      "Receiver"
+    ]
+  },
+  "RX470-4": {
+    "title": "QIACHIP RX470-4 Instruction Manual DC 2V-5V 433MHz RF Superheterodyne Wireless Receiver Module",
+    "keywords": [
+      "DC2V-5V",
+      "433MHz",
+      "RF",
+      "Superheterodyne",
+      "Receiver"
+    ]
+  },
+  "RX480E-1A": {
+    "title": "QIACHIP RX480E-1A Instruction Manual DC 2V-5V 433MHz RF Decoding Wireless Receiver Module",
+    "keywords": [
+      "DC2V-5V",
+      "433MHz",
+      "RF",
+      "Decoding",
+      "Receiver"
+    ]
+  },
+  "RX480E-4C": {
+    "title": "QIACHIP RX480E Instruction Manual DC 3V-5V 433MHz RF Decoding Wireless Receiver Module",
+    "keywords": [
+      "RX480E",
+      "DC3V-5V",
+      "433MHz",
+      "RF",
+      "Decoding",
+      "Receiver"
+    ]
+  },
+  "RX480E-868": {
+    "title": "QIACHIP RX480E-868 Instruction Manual DC 5V-24V 868MHz RF Wireless Encoding & Decoding Transceiver Module",
+    "keywords": [
+      "DC5V-24V",
+      "868MHz",
+      "RF",
+      "Encoding",
+      "Decoding",
+      "Transceiver"
+    ]
+  },
+  "RX500-4": {
+    "title": "QIACHIP RX500-4 Instruction Manual DC 2V-5.5V 433MHz RF Superheterodyne Wireless Receiver Module",
+    "keywords": [
+      "DC2V-5.5V",
+      "433MHz",
+      "RF",
+      "Superheterodyne",
+      "Receiver"
+    ]
+  },
+  "TX118SA-4": {
+    "title": "QIACHIP TX118SA-4 Instruction Manual DC 3V-24V 433MHz RF Superheterodyne Wireless Transmitter Module",
+    "keywords": [
+      "DC3V-24V",
+      "433MHz",
+      "RF",
+      "Superheterodyne",
+      "Transmitter"
+    ]
+  },
+  "TX181-4": {
+    "title": "QIACHIP TX181-4 Instruction Manual DC 3V-24V 433MHz RF Power-on Transmitter Module",
+    "keywords": [
+      "DC3V-24V",
+      "433MHz",
+      "RF",
+      "Power-on",
+      "Transmitter"
+    ]
+  },
+  "WL101-341": {
+    "title": "QIACHIP WL101-341 Instruction Manual DC 3V-5V 433MHz RF Superheterodyne Wireless Receiver Module",
+    "keywords": [
+      "DC3V-5V",
+      "433MHz",
+      "RF",
+      "Superheterodyne",
+      "Receiver"
+    ]
+  },
+  "WL102-341": {
+    "title": "QIACHIP WL102-341 Instruction Manual DC 2V-3.6V 433MHz RF Superheterodyne Wireless Transmitter Module",
+    "keywords": [
+      "DC2V-3.6V",
+      "433MHz",
+      "RF",
+      "Superheterodyne",
+      "Transmitter"
+    ]
+  }
+}
