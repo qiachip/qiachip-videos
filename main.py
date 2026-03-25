@@ -54,7 +54,7 @@ def run_step(step_name, command, step_num, total_steps):
 
 def main():
     print("=" * 50)
-    print("   Qiachip Lens 视频分类系统")
+    print("   Qiachip videos 视频分类系统")
     print("=" * 50)
     print("\n请选择运行模式：")
     print("1. 完整流程（抓视频 → 抓文档 → 分类 → 导出）")
